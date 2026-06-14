@@ -1,0 +1,3 @@
+Algorithm,Runtime (s),Sharpe Ratio,Portfolio Variance,Feasibility Rate,Approximation Ratio
+Classical_BFGS,0.05,1.3572750482899427,0.008644569668887015,1.0,1.0
+VQE_Simulated,12.4,1.3476739005031124,0.009235791180152875,1.0,0.9529411764705883
